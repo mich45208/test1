@@ -1,0 +1,1 @@
+is it correct that I could use Files.copy to copy a file?
